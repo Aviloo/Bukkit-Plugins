@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Cmds\BanBotDS\Plugin\.metadata\.plugins\org.eclipse.jdt.core
+2278099896.index
+2485895257.index
+3170486738.index

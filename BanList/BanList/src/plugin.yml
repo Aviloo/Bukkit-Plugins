@@ -1,0 +1,20 @@
+name: BanList
+creator: Aviloo
+main: MainLib.main
+discription: Ban list for data base
+version: 1.0
+commands: 
+   suspect:
+      discription: Put on player suspect mode.
+      permission: BanList.suspect
+      usage: /<command> <player>
+      aliases:
+      - smode
+      - sus
+   unsuspect:
+      discription: Get off  player suspect mode.
+      permission: BanList.unsuspect
+      usage: /<command> <player>
+      aliases:
+      - unsmode
+      - unsus

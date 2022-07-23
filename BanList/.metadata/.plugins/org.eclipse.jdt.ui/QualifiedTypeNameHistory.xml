@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.player.PlayerQuitEvent"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.Listener"/>
+    <fullyQualifiedTypeName name="java.util.UUID"/>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="org.bukkit.ChatColor"/>
+    <fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+    <fullyQualifiedTypeName name="MainLib.BanHandler"/>
+    <fullyQualifiedTypeName name="org.bukkit.command.CommandExecutor"/>
+    <fullyQualifiedTypeName name="org.bukkit.command.CommandSender"/>
+    <fullyQualifiedTypeName name="org.bukkit.command.Command"/>
+    <fullyQualifiedTypeName name="org.bukkit.plugin.java.JavaPlugin"/>
+    <fullyQualifiedTypeName name="commands.suspect"/>
+    <fullyQualifiedTypeName name="MainLib.main"/>
+    <fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+    <fullyQualifiedTypeName name="net.md_5.bungee.api.ChatColor"/>
+    <fullyQualifiedTypeName name="org.bukkit.Sound"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="org.bukkit.GameMode"/>
+    <fullyQualifiedTypeName name="commands.unsuspect"/>
+    <fullyQualifiedTypeName name="net.minecraft.server.v1_12_R1.Scoreboard"/>
+    <fullyQualifiedTypeName name="org.bukkit.scoreboard.Scoreboard"/>
+    <fullyQualifiedTypeName name="org.bukkit.scoreboard.Objective"/>
+    <fullyQualifiedTypeName name="org.bukkit.scoreboard.DisplaySlot"/>
+    <fullyQualifiedTypeName name="org.bukkit.scoreboard.Score"/>
+</qualifiedTypeNameHistroy>
