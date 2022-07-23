@@ -1,6 +1,6 @@
-host: mysql2.joinserver.xyz
+host: host
 port: 3306
-database: s85954_Test
-username: u85954_TTsGG88puU
-password: ht!hzZjm+@Lc00I=s17AOGHL
+database: database
+username: username
+password: password
 table: ban_list
