@@ -1,0 +1,5 @@
+name: Levelsystem
+version: '${project.version}'
+main: me.aviloo.levelsystem.Main
+api-version: 1.19
+authors: [ Aviloo ]
